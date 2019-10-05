@@ -1,0 +1,45 @@
+body{
+    background-image: url(../d2.png); 
+    background-size: cover;
+}
+
+#gc{
+    margin-left: 36%;
+    color: aqua;
+    font-family: 'Special Elite', cursive;
+    padding-top: 15px;
+    font-weight: bolder;
+    font-size: 80px;
+}
+
+#xyz:hover{
+    font-size: 30px;
+    color: rgb(55, 218, 77);
+}
+
+#xyz{
+    font-size: 23px;
+    padding-left: 15px;
+    color: rgb(255, 255, 255);
+}
+
+video{
+    margin-top: 20px;
+    margin-left:31.5%;
+    background-color: rgb(214, 206, 206);
+    margin-bottom: 20px;
+    width: 780px;
+}
+
+marquee{
+    font-family: 'Great Vibes', cursive;
+    color:red;
+    font-size: 27px;
+    margin-top: 60px;
+    font-weight: bolder;
+}
+
+.navbar-nav{
+    margin-left:19%;
+    margin-top: 10%;
+}
